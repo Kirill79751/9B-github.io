@@ -1,0 +1,32 @@
+body {
+  font-family: 'Alatsi', sans-serif;
+  margin: 0;
+  overflow: hidden;
+}
+
+.container {
+  text-align: center;
+  position: absolute;
+  margin-top: 20%; /* Отступ сверху */
+  width: 100vw;
+  height: 100vh;
+}
+
+.title {
+  font-size: 10vw;
+  color: white;
+}
+
+canvas {
+  width: 100%;
+}
+
+.rasp {
+  margin-top: 50%;
+}
+
+.test {
+  position: absolute;
+  text-align: center;
+  margin-top: 50%; /* Отступ сверху */
+ }
